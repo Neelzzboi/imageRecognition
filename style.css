@@ -1,0 +1,39 @@
+  .title
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 35.6px;
+  }
+  .title2
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+  }
+  .mobileNetModelTrained
+  {
+    font-size: 18px ;
+  }
+  .result
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .copy_right_footer{
+    bottom: 0;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    padding: 5px;
+  }
+
+#objectName{
+  white-space: pre-line;
+}
+ 
